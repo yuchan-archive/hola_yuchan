@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = HolaYuchan::VERSION
   spec.authors       = ["Yusuke Ohashi"]
   spec.email         = ["yusuke@junkpiano.me"]
-  spec.summary       = "This my first gem."
-  spec.description   = "Say Hello"
+  spec.summary       = "Greeding Gem."
+  spec.description   = "Our Greeding Gem."
   spec.homepage      = "https://github.com/yuchan/hola_yuchan"
   spec.license       = "MIT"
 
